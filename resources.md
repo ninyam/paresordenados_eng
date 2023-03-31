@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Recursos
+title: Resources
 ---
 
 ### Temas de Estudios

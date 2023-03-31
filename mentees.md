@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Aprendices
+title: Mentees
 ---
 
 ¡Muchas gracias por su interés en participar en Pares Ordenados!

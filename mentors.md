@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mentores
+title: Mentors
 ---
 
 ¡Muchas gracias por su interés en participar en Pares Ordenados!

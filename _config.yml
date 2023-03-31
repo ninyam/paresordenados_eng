@@ -1,12 +1,12 @@
 # Site settings
 title: Pares Ordenados
-description: Programa virtual de lectura dirigida para estudiantes de pregrado en Matemáticas
+description: Online directed reading program for undergrads in math
 
-baseurl: "/paresordenados" # the subpath of your site, e.g. /blog/
+baseurl: "/paresordenados_eng" # the subpath of your site, e.g. /blog/
 url: "https://ninyam.github.io" # the base hostname & protocol for your site
 
 author:
-  fullname: Niny Arcila Maya
+  fullname: Niny Arcila-Maya
   email: niny.arcilamaya@duke.edu
 
 
