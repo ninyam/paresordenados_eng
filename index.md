@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Información General
+title: About
 #subtitle:
 sitemap:
   priority: 0.9
@@ -8,57 +8,57 @@ sitemap:
 
 <blockquote cite="https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do">
     <p>
-    "La verdadera satisfacción de las matemáticas está en aprender de los demás y compartir con los demás."
+    "The real satisfaction from mathematics is in learning from others and sharing with others."
     </p>
     <footer>- <a href="https://mathoverflow.net/questions/43690/whats-a-mathematician-to-do"><cite>Bill Thurston</cite></a>
 	</footer>
 </blockquote>
 
-### ¿QUÉ ES?
+### WHAT?
 <div style="text-align: justify">
 <p>
-<strong>Pares Ordenados</strong> es un <a href="{{ '/info' | prepend: site.baseurl }}">Programa de Lectura Dirigida (PLD)</a>, es decir, es un programa de asesoría matemática que se encarga de conectar estudiantes de pregrado en matemáticas con estudiantes de posgrado en matemáticas, o con doctores en matemáticas que se encuentren en los inicios de sus carreras (por ejemplo, haciendo una estadía postdoctoral), para que desarrollen un proyecto de lectura durante un semestre.
+<strong>Pares Ordenados</strong> is an online <a href="{{ '/info' | prepend: site.baseurl }}">Directed Reading Program (DRP)</a> in Spanish, i.e. it is a mathematics mentorship program, pairing undergraduate students with graduate student mentors, or early carrear mathematicians, for a semester-long reading project.
 </p>
 </div>
 
-### ¿PARA QUIÉN?
+### WHO?
 <div style="text-align: justify">
 <p>
-<strong>Pares Ordenados</strong> tiene como población objetivo estudiantes hispanohablantes de matemáticas (o áreas afines) alrededor del mundo que pertenezcan a programas de pregrado no orientados a la investigación o que se identifiquen como miembros de una minoría.
+<strong>Pares Ordenados</strong> especially aims to provide such mentorship to Latinx math students around the world from underrepresented groups or non-traditional backgrounds, as well as to students at non-research oriented colleges and universities.
 </p>
 </div>
 
-### ¿CUÁNDO?
+### WHEN?
 <div style="text-align: justify">
 <p>
-Desde el <b>23 de enero de 2023</b> hasta el <b>28 de abril de 2023</b>.
+From <b>January 23, 2023</b> to <b>April 28, 2023</b>.
 <br>
-Cierre de aplicaciones: 16 de enero a las 11:59 pm EST.
+Applications deadline: January 16 at 11:59 pm EST.
 </p>
 </div>
 
-### ¿CÓMO?
+### HOW?
 <div style="text-align: justify">
-<p><strong>Pares Ordenados</strong> se lleva a cabo virtualmente.</p>
+<p><strong>Ordered Pairs</strong> takes place online.</p>
 <ol>
-	<li>Los estudiantes de pregrado aplican para ser aprendices. ver <a href="{{ '/aprendices' | prepend: site.baseurl }}">Aprendices</a> para más información.</li>
+	<li>Undergraduate students apply to be mentees. See <a href="{{ '/aprendices' | prepend: site.baseurl }}">Mentees</a>.</li>
 
-	<li>Los estudiantes de posgrado, o los doctores en matemáticas que se encuentren en los inicios de sus carreras, aplican para ser mentores. Ver <a href="{{ '/mentores' | prepend: site.baseurl }}">Mentores</a> para más información.</li>
+	<li>Graduate students, or early carrear mathematicians apply to be mentors. See <a href="{{ '/mentores' | prepend: site.baseurl }}">Mentors</a>.</li>
 
-	<li>Aprendices y mentores son emparejados con base a sus interéses académicos. Cada pareja escoge un tema de estudio para el semestre. Ver ejemplos de temas de estudios en <a href="{{ '/recursos' | prepend: site.baseurl }}">Recursos</a>.</li>
+	<li>Mentees and mentors are paired based on mutual interests. Each pair decides a topic for the semester. See examples of topics in <a href="{{ '/recursos' | prepend: site.baseurl }}">Resources</a>.</li>
 
-	<li>Cada par ordenado <b>(mentor(a), aprendiz)</b> se reune virtualmente durante <b>una hora cada semana</b>.</li>
+	<li>Each ordered pair <b>(mentor, mentee)</b> meets online for <b>one hour weekly</b>.</li>
 
-	<li>A mediados del semestre, cada par ordenado decide sobre el proyecto final y escribe un resumen corto que debe ser enviado a la organizadora. Ver ejemplos de proyectos en <a href="{{ '/recursos' | prepend: site.baseurl }}">Recursos</a>.</li>
+	<li>Halfway through the semester, each pair decides on a final project and writes a project description that must be sent to the organizer. See examples of projects in <a href="{{ '/recursos' | prepend: site.baseurl }}">Resources</a>.</li>
 
-	<li>Al final del semestre se realiza una integración virtual con todos los pares ordenados donde los aprendices dan presentaciones acerca de su tema de estudio durante el semestre.</li>
+	<li>At the end of the semester, there is a meeting where all mentees give short presentations about their topics.</li>
 </ol>
 </div>
 
-### ¿PARA QUÉ?
+### WHAT FOR?
 <blockquote cite="https://www.youtube.com/watch?v=jwAE3iHi4vM">
     <p>
-    "¿Qué es pertenecer? La medida en que un individuo se siente aceptado, valorado y validado dentro de la comunidad."
+    "What is belonging? The extent to which an individual feels accepted, valued, and legitimate within the community."
     </p>
     <footer>- <a href="https://www.youtube.com/watch?v=jwAE3iHi4vM"><cite>Deanna Haunsperger</cite></a>
 	</footer>
@@ -66,13 +66,13 @@ Cierre de aplicaciones: 16 de enero a las 11:59 pm EST.
 
 <div style="text-align: justify">
 <p>
-¡<strong>Pares Ordenados</strong> es acerca de la comunidad!
+<strong>Pares Ordenados</strong> is about the community!
 <br>
-Uno de los principales objetivos de este programa es fomentar la colaboración entre los miembros de nuestra <b>Comunidad Matemática Latina/Hispana</b> alrededor del mundo.
+One of the main goals of this program is to foster collaboration among the members of our <b>Latino/Hispanic Math Community</b> around the world.
 </p>
 </div>
 
-#### Beneficios para los aprendices: 
+#### Benefits for mentees: 
 <div style="text-align: justify">
 <ul>
 	<li>Tener la oportunidad de aprender temas que no estén incluídos en el plan de estudios de su pregrado.</li>
@@ -83,10 +83,10 @@ Uno de los principales objetivos de este programa es fomentar la colaboración e
 </ul>
 </div>
 
-#### Beneficios para los mentores:
+#### Benefits for mentors:
 <div style="text-align: justify">
 <ul>
-	<li>Obtener un tipo diferente de experiencia docente.</li>
+	<li>Acceder a un medio para obtener un tipo diferente de experiencia docente.</li>
 	<li>Repasar un tema interesante/importante.</li>
 	<li>Tener la oportunidad de enseñar un tema matemático de su interés sin la restricción de un programa preestablecido.</li>
 </ul>
