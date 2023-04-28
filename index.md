@@ -68,31 +68,31 @@ Applications deadline: January 16 at 11:59 pm EST.
 <p>
 <strong>Pares Ordenados</strong> is about the community!
 <br>
-One of the main goals of this program is to foster collaboration among the members of our <b>Latino/Hispanic Math Community</b> around the world.
+One of the main goals of this program is to foster collaborations among the members of our <b>Latino/Hispanic Math Community</b> around the world.
 </p>
 </div>
 
 #### Benefits for mentees: 
 <div style="text-align: justify">
 <ul>
-	<li>Tener la oportunidad de aprender temas que no estén incluídos en el plan de estudios de su pregrado.</li>
-	<li>Tener acceso a una vía menos intimidante para explorar temas que pueden parecer fuera de su alcance.</li>
-	<li>Aprender en un ambiente divertido y libre de estrés.</li>
-	<li>Adquirir experiencia con el aprendizaje autodidacta y la comunicación escrita de las matemáticas.</li> 
-	<li>Tener la valiosa oportunidad de practicar la comunicación oral de ideas matemáticas, tanto en conversaciones casuales como en presentaciones públicas.</li>
+	<li>Expand your knowledge by learning about topics that are not covered in your undergraduate curriculum.</li>
+	<li>Explore new and challenging topics through a more approachable learning environment.</li>
+	<li>Learn in a fun and stress-free environment.</li>
+	<li>Develop your skills in self-directed learning and written communication of mathematics.</li> 
+	<li>Improve your ability to communicate mathematical ideas both in informal conversations and formal presentations.</li>
 </ul>
 </div>
 
 #### Benefits for mentors:
 <div style="text-align: justify">
 <ul>
-	<li>Acceder a un medio para obtener un tipo diferente de experiencia docente.</li>
-	<li>Repasar un tema interesante/importante.</li>
-	<li>Tener la oportunidad de enseñar un tema matemático de su interés sin la restricción de un programa preestablecido.</li>
+	<li>Develop mentoring skills through working with undergraduate students.</li>
+	<li>Review an interesting/important topic.</li>
+	<li>Have the opportunity to teach a mathematical topic of interest without the restriction of a predetermined program.</li>
 </ul>
 </div>
 <br>
 <br>
 <div class = "content-dir-item">
-    <p><img src="{{ '/assets/img/icons8-abscissa-100.png' | prepend: site.baseurl }}" width="80" height="80" style="vertical-align:middle"> ¡Ver <a href="{{ '/info' | prepend: site.baseurl }}">Información</a> para saber más sobre los PLD!</p>
+    <p><img src="{{ '/assets/img/icons8-abscissa-100.png' | prepend: site.baseurl }}" width="80" height="80" style="vertical-align:middle"> See <a href="{{ '/info' | prepend: site.baseurl }}">About</a> for more info about DRPs!</p>
 </div>
