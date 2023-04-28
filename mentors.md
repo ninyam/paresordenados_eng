@@ -3,22 +3,22 @@ layout: page
 title: Mentors
 ---
 
-¡Muchas gracias por su interés en participar en Pares Ordenados!
+We appreciate your interest in joining Pares Ordenados!
 
 <span onclick="window.open('https://duke.qualtrics.com/jfe/form/SV_cNk6422OZJ29vKu')" style="cursor: pointer">
-    <button class="button button1"><b>Aplicación para Mentores</b></button>
+    <button class="button button1"><b>Apply here!</b></button>
 </span>
 
-Pares Ordenados se trata de equipar a los estudiantes de pregrado con las herramientas necesarias para profundizar en matemáticas más sofisticadas por medio de la lectura de una sección de un libro o un artículo. No se trata de hacer un proyecto de investigación.
+The objective of Pares Ordenados is to prepare undergraduate students with the essential skills required to engage in more advanced mathematics by studying a section of a book or article. It is not intended to be a research project.
 
-### Requisitos
-- Hablar español.
-- Ser estudiante de doctorado en matemáticas o ser doctor(a) en matemáticas que se encuentre en los inicios de su carrera (por ejemplo, haciendo una estadía postdoctoral).
+### Requirements
+- Speak Spanish.
+- Be a student of a research-oriented PhD program in the mathematical sciences, or a recent PhD graduate.
 
-### Expectativas
-Ser mentor(a) en Pares Ordenados implica:
-1. Consultar con su aprendiz para determinar un tema de estudio apropiado.
-2. Comprometerse a dedicar al menos <b>1 hora semanal</b> a la preparación de las reuniones con su aprendiz.
-3. Reunirse durante <b>1 hora cada semana</b> con su aprendiz.
-4. Ayudar al aprendiz a escribir su resumen sobre el proyecto a mediados del semestre.
-5. Ayudar al aprendiz con la preparación de su proyecto final.
+### Expectations
+Being a mentor in Pares Ordenados involves:
+1. Collaborate with your mentee to identify a suitable subject for study.
+2. Dedicate a minimum of <b>1 hour per week</b> to prepare for meetings with your mentee.
+3. Schedule weekly meetings with your mentee, each lasting <b>1 hour</b>.
+4. Assist your mentee in writing the mid-semester project summary.
+5. Support your mentee in preparing their final project.
