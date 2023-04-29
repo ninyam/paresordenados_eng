@@ -94,5 +94,5 @@ One of the main goals of this program is to foster collaborations among the memb
 <br>
 <br>
 <div class = "content-dir-item">
-    <p><img src="{{ '/assets/img/icons8-abscissa-100.png' | prepend: site.baseurl }}" width="80" height="80" style="vertical-align:middle"> See <a href="{{ '/info' | prepend: site.baseurl }}">About</a> for more info about DRPs!</p>
+    <p><img src="{{ '/assets/img/icons8-abscissa-100.png' | prepend: site.baseurl }}" width="80" height="80" style="vertical-align:middle"> See <a href="{{ '/info' | prepend: site.baseurl }}">Info</a>!</p>
 </div>
