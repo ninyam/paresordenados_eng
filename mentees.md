@@ -6,7 +6,7 @@ title: Mentees
 We appreciate your interest in joining Pares Ordenados!
 
 <span onclick="window.open('https://duke.qualtrics.com/jfe/form/SV_0GIbKbslYx4y9iC')" style="cursor: pointer">
-    <button class="button button1"><b>Apply here!</b></button>
+    <button class="button1"><b>Apply here!</b></button>
 </span>
 
 ### Requirements

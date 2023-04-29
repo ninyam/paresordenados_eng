@@ -6,7 +6,7 @@ title: Mentors
 We appreciate your interest in joining Pares Ordenados!
 
 <span onclick="window.open('https://duke.qualtrics.com/jfe/form/SV_cNk6422OZJ29vKu')" style="cursor: pointer">
-    <button class="button button1"><b>Apply here!</b></button>
+    <button class="button1"><b>Apply here!</b></button>
 </span>
 
 The objective of Pares Ordenados is to prepare undergraduate students with the essential skills required to engage in more advanced mathematics by studying a section of a book or article. It is not intended to be a research project.
