@@ -53,16 +53,12 @@
       }
     }
 
+    /* Navigation Bar */
     @media screen and (max-width: 600px) {
-      .topnav a:not(:first-child), .dropdown .dropbtn {
-        display: none;
-      }
       .topnav a.icon {
         float: right;
         display: block;
       }
-    }
-    @media screen and (max-width: 600px) {
       .topnav.responsive {position: fixed;}
       .topnav.responsive .icon {
         position: absolute;
@@ -74,16 +70,10 @@
         display: block;
         text-align: left;
       }
-      .topnav.responsive .dropdown {float: none;}
-      .topnav.responsive .dropdown-content {position: fixed;}
-      .topnav.responsive .dropdown .dropbtn {       
-        display: block;
-        width: 100%;
-        text-align: left;
-      }
     }
 
-    .button {
+    /* Button Green */
+    .button1 {
       border: none;
       color: white;
       padding: 10px 15px;
@@ -93,9 +83,23 @@
       font-size: 16px;
       margin: 4px 2px;
       cursor: pointer;
+      background-color: #16a085;
+      border-radius: 12px;
     }
-    .button1 {background-color: #16a085;border-radius: 12px;} /* Green */
-    .button2 {background-color: #008CBA;border-radius: 12px;} /* Blue */
+    /* Button Transparent */
+    .button2 {
+      border: solid;
+      color: white;
+      padding: 7px 10px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 12px;
+      margin: 4px 2px;
+      cursor: pointer;
+      background-color: transparent;
+      border-radius: 12px;
+    }
   </style>    
   {% include meta_tags/base.html %}
   {% include externals/styling.html %}    
@@ -104,6 +108,9 @@
   <div class="header">
     <h1>Pares Ordenados <br> (mentors, mentees)</h1>
     <p>Online Directed Reading Program in Spanish</p>
+    <span onclick="window.location.href='https://ninyam.github.io/paresordenados/'" style="cursor: pointer">
+      <button class="button2"><b>Español</b></button>
+    </span>
   </div>
   <div class="topnav" id="myTopnav">
     <a href="{{ '/index' | prepend: site.baseurl }}" class="active">Home</a> 
@@ -112,8 +119,7 @@
     <a href="{{ '/resources' | prepend: site.baseurl }}">Resources</a>
     <a href="{{ '/info' | prepend: site.baseurl }}">About</a>
     <!--<a href="{{ '/resume' | prepend: site.baseurl }}">Resume</a>
-    <a href="{{ '/blog' | prepend: site.baseurl }}">Blog</a>-->
-    <a href="https://ninyam.github.io/paresordenados/">Español</a>
+    <a href="{{ '/blog' | prepend: site.baseurl }}">Blog</a>--> 
     <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
     <!--<div class="dropdown">
       <button class="dropbtn">Dropdown 
