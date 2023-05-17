@@ -33,7 +33,7 @@ sitemap:
 <p>
 Our 2nd edition will run from <b>September 4, 2023</b> to <b>December 22, 2023</b>.
 <br>
-Applications deadline: August 18 at 11:59 pm EST.
+Applications deadline: <b>August 18 at 11:59 pm EST</b>.
 </p>
 </div>
 
