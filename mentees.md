@@ -26,3 +26,5 @@ As a participant in Pares Ordenados, you are expected to:
 3. Attend weekly <b>1-hour</b> meetings with your mentor.
 4. Halfway through the semester, you must submit an abstract for the final project to ```niny[.]arcilamaya[at]duke[.]edu```.
 5. Submit your final project and give a talk on your topic within the designated timeframe.
+
+### FAQ
