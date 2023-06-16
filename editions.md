@@ -9,7 +9,7 @@ Here is a map of former mentees (green) and mentors (purple) institutions.
 
 <div class="google-map">
 <p align="center">
-<iframe src="https://www.google.com/maps/d/embed?mid=17gvVo-n7jUESZIj9mvyw8PyEfcYkHHQ&ehbc=2E312F" 
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=19L_QWRcbf_-wnArip-CerdlmfJ-c4hs&ehbc=2E312F" 
 width="800" height="500"></iframe>
 </p>
 </div>
