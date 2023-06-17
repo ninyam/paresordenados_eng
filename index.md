@@ -31,9 +31,11 @@ sitemap:
 ### WHEN?
 <div style="text-align: justify">
 <p>
-Our 2nd edition will run from <b>September 4, 2023</b> to <b>December 22, 2023</b>.
+The Fall 2023 edition will run from <b>September 4, 2023</b> to <b>December 15, 2023</b>.
 <br>
-Applications deadline: <b>August 18 at 11:59 pm EST</b>.
+Applications open on <b>July 3 at 8:00 am EST</b>.
+<br>
+Applications close on <b>August 14 at 11:59 pm EST</b>.
 </p>
 </div>
 
