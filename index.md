@@ -36,6 +36,8 @@ The Fall 2023 edition will run from <b>September 4, 2023</b> to <b>December 15, 
 Applications open on <b>July 3 at 8:00 am EST</b>.
 <br>
 Applications close on <b>August 14 at 11:59 pm EST</b>.
+<br>
+You may see the schedule in <b>Fall 2023 Edition</b> in <a href="{{ '/ediciones' | prepend: site.baseurl }}">Editions</a>.
 </p>
 </div>
 
