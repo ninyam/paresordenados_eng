@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <style>
     /* Header and Logo Title */
     .header {
-      padding: 30px;
+      padding-top: 25px;
+      padding-bottom: 20px;
       text-align: center;
       background: #16a085;
       color: white;
@@ -20,6 +22,7 @@
       display: inline-block;
       padding: 3px;}
     .up {
+      -webkit-transform: rotate(-135deg);
       transform: rotate(-135deg);
     }
 
@@ -115,14 +118,61 @@
       background-color: transparent;
       border-radius: 12px;
     }
+
+    /* Google map responsive */
+    @media screen and (max-width: 600px) {
+      .google-map {
+        overflow:hidden;
+        padding-bottom:56.25%;
+        position:relative;
+        height:0;
+      }
+      .google-map iframe {
+        left:0;
+        top:0;
+        height:100%;
+        width:100%;
+        position:absolute;
+      }
+    }
+
+    /* 3 images */
+    img {
+      border-radius: 50%;
+    }
+    * {
+      box-sizing: border-box;
+    }
+    .column {
+      float: left;
+      width: 33.33%;
+      padding: 5px;
+    }
+    /* Clearfix (clear floats) */
+    .row::after {
+      content: "";
+      clear: both;
+      display: table;
+    }
+
+    /* Figure */
+    figure {
+      margin: auto;
+    }
+    figcaption {
+      background-color: transparent;
+      padding: 2px;
+      text-align: center;
+    }
   </style>
   <meta charset="UTF-8">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.css" integrity="sha384-zB1R0rpPzHqg7Kpt0Aljp8JPLqbXI3bhnPWROx27a9N0Ll6ZP/+DiW/UqRcLbRjq" crossorigin="anonymous">
   <script defer src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.js" integrity="sha384-y23I5Q6l+B6vatafAwxRu/0oK/79VlbSz7Q9aiSZUvyWYIYsd+qj+o24G5ZU2zJz" crossorigin="anonymous"></script>
-  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/contrib/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script>    
+  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/contrib/auto-render.min.js" integrity="sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI" crossorigin="anonymous" onload="renderMathInElement(document.body);"></script>  
   {% include meta_tags/base.html %}
-  {% include externals/styling.html %}    
+  {% include externals/styling.html %}
 </head>
+
 <body>
   <div class="header">
     <h1>Pares Ordenados <br> (mentors, mentees)</h1>
