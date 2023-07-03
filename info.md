@@ -44,13 +44,6 @@ Hi! My name is Niny Arcila-Maya. I am a William W. Elliott Assistant Research Pr
   </div>
 </div>
 
-<p>
-<!--<img src="{{ '/assets/img/icons8-mail-100.png' | prepend: site.baseurl }}" width="80" height="80" style="vertical-align:middle">-->
-<strong>Questions/Comments/Suggestions</strong> can be emailed to </p>
-<div class="row">
-paresordenados[@]gmail[.]com
-</div>
-
 ### Acknowledgments
 <div style="text-align: justify">
 <p> I appreciate the assistance provided by <a href="https://www.linkedin.com/in/alejandra-donají-herrera-reyes-52b54a87/">Alejandra Herrera Reyes</a> in selecting the name of this program.
