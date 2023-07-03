@@ -26,7 +26,7 @@ As a participant in Pares Ordenados, you are expected to:
 3. Attend weekly <b>1-hour</b> meetings with your mentor.
 4. Submit an abstract for the final project.
 5. Write and submit your final project 
-6. Give a presentation of at least 10 talking about your project. This will happen during the last meeting of the program.
+6. Give a presentation of at least 10 minutes talking about your project. This will happen during the last meeting of the program.
 7. Attend/Participate in the following events
     - Welcome meeting
     - Panel about Latinx mathematicians around the world
