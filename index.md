@@ -37,7 +37,7 @@ Applications open on <b>July 3 at 8:00 am EST</b>.
 <br>
 Applications close on <b>August 14 at 11:59 pm EST</b>.
 <br>
-You may see the schedule in <b>Fall 2023 Edition</b> in <a href="{{ '/ediciones' | prepend: site.baseurl }}">Editions</a>.
+You may see the schedule in <b>Fall 2023 Edition</b> in <a href="{{ '/editions' | prepend: site.baseurl }}">Editions</a>.
 </p>
 </div>
 
@@ -45,7 +45,7 @@ You may see the schedule in <b>Fall 2023 Edition</b> in <a href="{{ '/ediciones'
 <div style="text-align: justify">
 <p><strong>Ordered Pairs</strong> takes place online.</p>
 <ol>
-	<li>Undergraduate students apply to be mentees. See <a href="{{ '/aprendices' | prepend: site.baseurl }}">Mentees</a>.</li>
+	<li>Undergraduate students apply to be mentees. See <a href="{{ '/mentees' | prepend: site.baseurl }}">Mentees</a>.</li>
 
 	<li>Graduate students, or early carrear mathematicians apply to be mentors. See <a href="{{ '/mentores' | prepend: site.baseurl }}">Mentors</a>.</li>
 
