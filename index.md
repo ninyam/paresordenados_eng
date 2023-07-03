@@ -47,13 +47,13 @@ You may see the schedule in <b>Fall 2023 Edition</b> in <a href="{{ '/editions' 
 <ol>
 	<li>Undergraduate students apply to be mentees. See <a href="{{ '/mentees' | prepend: site.baseurl }}">Mentees</a>.</li>
 
-	<li>Graduate students, or early carrear mathematicians apply to be mentors. See <a href="{{ '/mentores' | prepend: site.baseurl }}">Mentors</a>.</li>
+	<li>Graduate students, or early carrear mathematicians apply to be mentors. See <a href="{{ '/mentors' | prepend: site.baseurl }}">Mentors</a>.</li>
 
-	<li>Mentees and mentors are paired based on mutual interests. Each pair decides on a topic for the semester. See examples of topics in <a href="{{ '/recursos' | prepend: site.baseurl }}">Resources</a> or in <a href="{{ '/editions' | prepend: site.baseurl }}">Editions</a>.</li>
+	<li>Mentees and mentors are paired based on mutual interests. Each pair decides on a topic for the semester. See examples of topics in <a href="{{ '/resources' | prepend: site.baseurl }}">Resources</a> or in <a href="{{ '/editions' | prepend: site.baseurl }}">Editions</a>.</li>
 
 	<li>Each ordered pair <b>(mentor, mentee)</b> meets online for <b>one hour weekly</b>.</li>
 
-	<li>Halfway through the semester, each pair decides on a final project and writes a project description that must be sent to the organizers. See examples of projects in <a href="{{ '/recursos' | prepend: site.baseurl }}">Resources</a> or in <a href="{{ '/editions' | prepend: site.baseurl }}">Editions</a>.</li>
+	<li>Halfway through the semester, each pair decides on a final project and writes a project description that must be sent to the organizers. See examples of projects in <a href="{{ '/resources' | prepend: site.baseurl }}">Resources</a> or in <a href="{{ '/editions' | prepend: site.baseurl }}">Editions</a>.</li>
 
 	<li>At the end of the semester, there is a meeting where all mentees give short presentations about their topics.</li>
 </ol>
