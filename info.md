@@ -47,7 +47,7 @@ Hi! My name is Niny Arcila-Maya. I am a William W. Elliott Assistant Research Pr
 <p>
 <!--<img src="{{ '/assets/img/icons8-mail-100.png' | prepend: site.baseurl }}" width="80" height="80" style="vertical-align:middle">-->
 <strong>Questions/Comments/Suggestions</strong> can be emailed to </p>
-niny[.]arcilamaya[at]duke[.]edu, maye[.]montoya[@]utoronto[.]ca, or ospina[@]math[.]utah[.]edu.
+paresordenados[@]gmail[.]com
 </div>
 
 ### Acknowledgments
