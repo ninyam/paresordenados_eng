@@ -12,13 +12,20 @@ We appreciate your interest in joining Pares Ordenados!
 The objective of Pares Ordenados is to prepare undergraduate students with the essential skills required to engage in more advanced mathematics by studying a section of a book or article. It is not intended to be a research project.
 
 ### Requirements
-- Proficiency in Spanish is required.
-- Be a student of a research-oriented PhD program in the mathematical sciences, or a recent PhD graduate.
+- Proficiency in Spanish.
+- Be a graduate student in the mathematical sciences, or a recent PhD graduate.
 
 ### Expectations
 Being a mentor in Pares Ordenados involves:
-1. Collaborate with your mentee to identify a suitable subject for study.
-2. Dedicate a minimum of <b>1 hour per week</b> to prepare for meetings with your mentee.
-3. Schedule weekly meetings with your mentee, each lasting <b>1 hour</b>.
-4. Assist your mentee in writing the mid-semester project abstract.
-5. Support your mentee in preparing their final project.
+1. Collaborate with your mentee to identify a suitable subject to study.
+2. Spend at least <b>1 hour per week</b> to prepare the meetings with your mentee.
+3. Schedule weekly meetings of at least <b>1 hour</b> with your mentee.
+4. Assist your mentee in 
+    - writing project abstract half-way the program
+    - peparing their final project
+    - preparing the mentee's final presentation 
+5. Participate in the following events:
+    - Introduction meeting for the mentors.
+    - Welcome meeting.
+    - Panel about Latinx mathematicians around the world.
+    - Final meeting.
