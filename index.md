@@ -43,7 +43,7 @@ You may see the schedule in <b>Fall 2023 Edition</b> in <a href="{{ '/editions' 
 
 ### HOW?
 <div style="text-align: justify">
-<p><strong>Ordered Pairs</strong> takes place online.</p>
+<p><strong>Pares Ordenados</strong> takes place online.</p>
 <ol>
 	<li>Undergraduate students apply to be mentees. See <a href="{{ '/mentees' | prepend: site.baseurl }}">Mentees</a>.</li>
 
