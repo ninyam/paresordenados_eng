@@ -4,12 +4,12 @@ title: Resources
 ---
 
 ### Topics
-The subjects that can be studied may vary in difficulty, from fundamental to advanced. Here are a few instances of study topics:
+The projects can study fundamental or advanced topics. Here are a few examples:
 <ul>
-     <li>An introduction to a topic not covered in the mentee's program.</li>
+     <li>An introduction to a subject not covered in the mentee's program.</li>
      <li>An in-depth reading of a theorem or set of theorems.</li>
      <li>A more advanced treatment of a standard topic.</li>
-     <li>Reading of a research paper.</li>
+     <li>A research paper.</li>
 </ul>
 
 Follow the links below for project ideas:
