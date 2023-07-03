@@ -10,7 +10,7 @@ title: Info
 Hi! My name is Niny Arcila-Maya. I am a William W. Elliott Assistant Research Professor at the Department of Mathematics at Duke University, and I am the founder of Pares Ordenados.
 </p>
 <p>
-<strong>Organizing Committee:
+<strong>Organizing Committee:</strong>
 <div class="row">
   <div class="column">
     <figure>
