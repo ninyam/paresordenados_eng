@@ -5,7 +5,7 @@ title: Mentors
 
 We appreciate your interest in joining Pares Ordenados!
 
-<span onclick="window.open('https://duke.qualtrics.com/jfe/form/SV_cNk6422OZJ29vKu')" style="cursor: pointer">
+<span onclick="window.open('https://duke.qualtrics.com/jfe/form/SV_bmfJBPCbPpmuWfI')" style="cursor: pointer">
     <button class="button1"><b>Apply here!</b></button>
 </span>
 
