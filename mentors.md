@@ -21,8 +21,8 @@ Being a mentor in Pares Ordenados involves:
 2. Spend at least <b>1 hour per week</b> to prepare the meetings with your mentee.
 3. Schedule weekly meetings of at least <b>1 hour</b> with your mentee.
 4. Assist your mentee in 
-    - writing project abstract half-way the program
-    - peparing their final project
+    - writing project abstract halfway the program
+    - preparing their final project
     - preparing the mentee's final presentation 
 5. Participate in the following events:
     - Introduction meeting for the mentors.
