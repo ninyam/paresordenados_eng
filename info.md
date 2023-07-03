@@ -42,7 +42,7 @@ Hi! My name is Niny Arcila-Maya. I am a William W. Elliott Assistant Research Pr
     </figure>
   </div>
 </div>
-
+</div>
 
 ### Acknowledgments
 <div style="text-align: justify">
