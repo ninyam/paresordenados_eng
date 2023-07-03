@@ -24,7 +24,12 @@ As a participant in Pares Ordenados, you are expected to:
 1. Collaborate with your mentor to select a subject for study.
 2. Dedicate approximately <b>4 hours per week</b> to working independently on your topic.
 3. Attend weekly <b>1-hour</b> meetings with your mentor.
-4. Halfway through the semester, you must submit an abstract for the final project to ```niny[.]arcilamaya[at]duke[.]edu```.
-5. Submit your final project and give a talk on your topic within the designated timeframe.
+4. Submit an abstract for the final project.
+5. Write and submit your final project 
+6. Give a presentation of at least 10 talking about your project. This will happen during the last meeting of the program.
+7. Attend/Participate in the following events
+    - Welcome meeting
+    - Panel about Latinx mathematicians around the world
+    - Final meeting
 
 ### FAQ
