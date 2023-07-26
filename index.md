@@ -17,14 +17,25 @@ sitemap:
 ### WHAT?
 <div style="text-align: justify">
 <p>
-<strong>Pares Ordenados</strong> is an online <a href="{{ '/info' | prepend: site.baseurl }}">Directed Reading Program (DRP)</a> in Spanish, i.e. it is a mathematics mentorship program, pairing undergraduate students with graduate student mentors, or early carrear mathematicians, for a semester-long reading project.
+<strong>Pares Ordenados</strong> is a free online <a href="{{ '/info' | prepend: site.baseurl }}">Directed Reading Program (DRP)</a> in Spanish, i.e. it is a mathematics mentorship program, pairing mathematics undergraduate students with graduate student mentors, or early carrear mathematicians, for a semester-long reading project.
 </p>
 </div>
 
 ### WHO?
 <div style="text-align: justify">
 <p>
-<strong>Pares Ordenados</strong> especially aims to provide such mentorship to Latinx math students around the world from underrepresented groups or non-traditional backgrounds, as well as to students at non-research oriented colleges and universities.
+<strong>Pares Ordenados</strong> especially aims to provide such mentorship to Spanish-speaking sutdents in Latin America and Africa from historically excluded groups or non-traditional backgrounds, as well as to students at non-research oriented colleges and universities.
+<br>
+Some of the historically excluded groups are
+<ul>
+	<li>Women</li>
+	<li>Students of African descent</li>
+	<li>Students of indigenous descent</li>
+	<li>Students who are victims of armed conflicts and/or forced displacement</li>
+	<li>Students who are members of the LGBTQIA+ community</li> 
+	<li>Students who are immigrants or refugees</li>
+	<li>Students with visible and/or invisible disabilities</li>
+</ul>
 </p>
 </div>
 
@@ -55,6 +66,8 @@ You may see the schedule in <b>Fall 2023 Edition</b> in <a href="{{ '/editions' 
 
 	<li>Halfway through the semester, each pair decides on a final project and writes a project description that must be sent to the organizers. See examples of projects in <a href="{{ '/resources' | prepend: site.baseurl }}">Resources</a> or in <a href="{{ '/editions' | prepend: site.baseurl }}">Editions</a>.</li>
 
+	<li>Halfway through the semester, mentees and mentors attend the panel about Latinx/Hispanic mathematicians around the world.</li>
+
 	<li>At the end of the semester, there is a meeting where all mentees give short presentations about their topics.</li>
 </ol>
 </div>
@@ -72,7 +85,7 @@ You may see the schedule in <b>Fall 2023 Edition</b> in <a href="{{ '/editions' 
 <p>
 <strong>Pares Ordenados</strong> is about the community!
 <br>
-One of the main goals of this program is to foster collaborations among the members of our <b>Latino/Hispanic Math Community</b> around the world.
+One of the main goals of this program is to foster collaborations among the members of our <b>Latinx/Hispanic Math Community</b> around the world.
 </p>
 </div>
 
@@ -84,6 +97,7 @@ One of the main goals of this program is to foster collaborations among the memb
 	<li>Learn in a fun and stress-free environment.</li>
 	<li>Develop your skills in self-directed learning and written communication of mathematics.</li> 
 	<li>Improve your ability to communicate mathematical ideas both in informal conversations and formal presentations.</li>
+	<li>Make connections with Latinx/Hispanic mathematicians around the world.</li>
 </ul>
 </div>
 
