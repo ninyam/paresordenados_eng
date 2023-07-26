@@ -12,7 +12,7 @@ We appreciate your interest in joining Pares Ordenados!
 <div style="text-align: justify">
 <div style="color: #ED0974">
 <p style="font-size: 15px" style="line-height: 110%">
-<b>¡Atención!</b>
+<b>Please read!</b>
 <br>
 <br>
 Pares Ordenados mentors generously dedicate their time, energy, and expertise to support mentees.

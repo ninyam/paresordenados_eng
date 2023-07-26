@@ -9,7 +9,19 @@ We appreciate your interest in joining Pares Ordenados!
     <button class="button1"><b>Apply here!</b></button>
 </span>
 
-The objective of Pares Ordenados is to prepare undergraduate students with the essential skills required to engage in more advanced mathematics by studying a section of a book or article. It is not intended to be a research project.
+<div style="text-align: justify">
+<div style="color: #ED0974">
+<p style="font-size: 15px" style="line-height: 110%">
+<b>Please read!</b>
+<br>
+<br>
+The aim of Pares Ordenados is to prepare undergraduate students with the essential skills required to engage in more advanced mathematics by studying a section of a book or article. 
+<br>
+It is not intended to be a research project.
+</p>
+</div>
+</div>
+
 
 ### Requirements
 - Proficiency in Spanish.
@@ -29,3 +41,5 @@ Being a mentor in Pares Ordenados involves:
     - Welcome meeting.
     - Panel about Latinx mathematicians around the world.
     - Final meeting.
+
+### FAQ
