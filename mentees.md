@@ -9,13 +9,34 @@ We appreciate your interest in joining Pares Ordenados!
     <button class="button1"><b>Apply here!</b></button>
 </span>
 
+<div style="text-align: justify">
+<div style="color: #ED0974">
+<p style="font-size: 15px" style="line-height: 110%">
+<b>¡Atención!</b>
+<br>
+<br>
+Pares Ordenados mentors generously dedicate their time, energy, and expertise to support mentees.
+<br>
+Being selected as a mentee means you gain access to a valuable resource. <i>Don't take it for granted!</i> 
+<br>
+Defection from Pares Ordenados not only hurts your own reputation, but also discourage mentors from volunteering their time again. Additionally, it could deprive another responsible and committed student of this opportunity.
+<br>
+This program may be demanding since you'll be learning the material with more independently compared to a conventional course. If you anticipate that the time expectations might be too high and you won't be able to fully commit, it's best to hold off applying until a less busy semester.
+<br>
+If you are accepted but later find yourself unable to fully commit to the program, please get in touch with your mentor and the organizing committee during the <i>period to confirm acceptance</i>, see calendar in <a href="{{ '/ediciones' | prepend: site.baseurl }}">Editions</a>. This way, we can make the best use of your mentor's valuable time. Your cooperation is highly appreciated!
+</p>
+</div>
+</div>
+
 ### Requirements
 - Proficiency in Spanish is required.
 - Applicants must be students of mathematics (or related fields).
 - Preference will be given to those who are enrolled in a non-research-focused undergraduate program or identify as members of underrepresented groups.
-- Prior coursework in differential, integral, and multi-varible calculus is expected.
-- Completion of a linear algebra course is also required.
-- Familiarity with mathematical proof techniques is necessary.
+- Prior coursework in
+    - differential, integral, multi-varible calculus,
+    - linear algebra, and
+    - mathematical proofs
+is expected.
 - Applicants must demonstrate interest, dedication, and have the ability to commit 5 hours per week to the program.
 
 ### Expectations
