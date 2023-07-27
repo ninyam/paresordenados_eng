@@ -24,7 +24,7 @@ sitemap:
 ### WHO?
 <div style="text-align: justify">
 <p>
-<strong>Pares Ordenados</strong> especially aims to provide such mentorship to Spanish-speaking sutdents in Latin America and Africa from historically excluded groups or non-traditional backgrounds, as well as to students at non-research oriented colleges and universities.
+<strong>Pares Ordenados</strong> especially aims to provide such mentorship to Spanish-speaking students in Latin America and Africa from historically excluded groups or non-traditional backgrounds, as well as to students at non-research oriented colleges and universities.
 <br>
 Some of the historically excluded groups are
 <ul>
