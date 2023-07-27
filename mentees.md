@@ -21,7 +21,7 @@ Being selected as a mentee means you gain access to a valuable resource. <i>Don'
 <br>
 Defection from Pares Ordenados not only hurts your own reputation, but also discourage mentors from volunteering their time again. Additionally, it could deprive another responsible and committed student of this opportunity.
 <br>
-This program may be demanding since you'll be learning the material with more independently compared to a conventional course. If you anticipate that the time expectations might be too high and you won't be able to fully commit, it's best to hold off applying until a less busy semester.
+This program may be demanding since you'll be learning the material more independently compared to a conventional course. If you anticipate that the time expectations might be too high and you won't be able to fully commit, it's best to hold off applying until a less busy semester.
 <br>
 If you are accepted but later find yourself unable to fully commit to the program, please get in touch with your mentor and the organizing committee during the <i>period to confirm acceptance</i>, see calendar in <a href="{{ '/ediciones' | prepend: site.baseurl }}">Editions</a>. This way, we can make the best use of your mentor's valuable time. Your cooperation is highly appreciated!
 </p>
