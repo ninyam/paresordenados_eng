@@ -6,7 +6,7 @@ title: Info
 ### Are you interested in organizing a DRP in Spanish?
 <div style="text-align: justify">
 <p>
-If you would like to organize an in-person or online DRP in Spanish in your university, region, or country, we would be happy to talk about our experience and answer any questions you may have. 
+If you would like to organize an in-person or online DRP in Spanish in your university, region, or country, we would be delighted to talk about our experience and answer any questions you may have. 
 <br>
 When it comes to DRP's , <em>the more the merrier!</em>
 </p>
