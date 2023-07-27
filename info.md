@@ -3,6 +3,14 @@ layout: page
 title: Info
 ---
 
+### Are you interested in organizing a DRP in Spanish?
+<div style="text-align: justify">
+<p>
+If you would like to organize an in-person or online DRP in Spanish in our university, region, or country, we would be happy to talk about our experience and answer any questions you may have. 
+<br>
+When it comes to DRP's , <em>the more the merrier!</em>
+</p>
+</div>
 
 ### Contact
 <div style="text-align: justify">
@@ -12,6 +20,7 @@ Hi! My name is Niny Arcila-Maya. I am a William W. Elliott Assistant Research Pr
 </div>
 
 #### **Comité Organizador**
+We are three mathematicians from Manizales (Caldas, Colombia) who collaborate remotely to run **Pares Ordenados**.
 <div class="row">
   <div class="column">
     <figure>
@@ -44,6 +53,7 @@ Hi! My name is Niny Arcila-Maya. I am a William W. Elliott Assistant Research Pr
     </figure>
   </div>
 </div>
+Questions/Comments/Suggestions can be sent to paresordenados[@]gmail[.]com or to our emails.
 
 ### Acknowledgments
 <div style="text-align: justify">
