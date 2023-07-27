@@ -19,8 +19,8 @@ Hi! My name is Niny Arcila-Maya. I am a William W. Elliott Assistant Research Pr
 </p>
 </div>
 
-#### **Comité Organizador**
-We are three mathematicians from Manizales (Caldas, Colombia) who collaborate remotely to run **Pares Ordenados**.
+#### **Organizing Committee**
+We are three mathematicians from Manizales (Caldas, Colombia) who collaborate remotely with all our hearts to run **Pares Ordenados**.
 <div class="row">
   <div class="column">
     <figure>
