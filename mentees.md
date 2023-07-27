@@ -36,6 +36,7 @@ If you are accepted but later find yourself unable to fully commit to the progra
     - differential, integral, multi-varible calculus,
     - linear algebra, and
     - mathematical proofs
+
 is expected.
 - Applicants must demonstrate interest, dedication, and have the ability to commit 5 hours per week to the program.
 
