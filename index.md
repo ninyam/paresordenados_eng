@@ -35,6 +35,7 @@ Some of the historically excluded groups are
 	<li>Students who are members of the LGBTQIA+ community</li> 
 	<li>Students who are immigrants or refugees</li>
 	<li>Students with visible and/or invisible disabilities</li>
+	<li>Students from Central America</li>
 </ul>
 </p>
 </div>
