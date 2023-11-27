@@ -17,7 +17,7 @@ sitemap:
 ### WHAT?
 <div style="text-align: justify">
 <p>
-<strong>Pares Ordenados</strong> is a free online <a href="{{ '/info' | prepend: site.baseurl }}">Directed Reading Program (DRP)</a> in Spanish, i.e. it is a mathematics mentorship program, pairing mathematics undergraduate students with graduate student mentors, or early carrear mathematicians, for a semester-long reading project.
+<strong>Pares Ordenados</strong> is a free online <a href="{{ '/info' | prepend: site.baseurl }}">Directed Reading Program (DRP)</a> in Spanish, i.e. it is a mathematics mentorship program, pairing mathematics undergraduate students with graduate student mentors, or early career mathematicians, for a semester-long reading project.
 </p>
 </div>
 
