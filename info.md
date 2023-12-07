@@ -13,9 +13,10 @@ When it comes to DRP's , <em>the more the merrier!</em>
 </div>
 
 ### Contact
+#### **Initiator**
 <div style="text-align: justify">
 <p>
-Hi! My name is Niny Arcila-Maya. I am a William W. Elliott Assistant Research Professor at the Department of Mathematics at Duke University, and I am the founder of Pares Ordenados.
+Niny Arcila-Maya - William W. Elliott Assistant Research Professor at the Department of Mathematics at Duke University
 </p>
 </div>
 
@@ -28,6 +29,8 @@ We are three mathematicians from Manizales (Caldas, Colombia) who collaborate re
       <figcaption>
         <a href="https://sites.duke.edu/ninyam/">Niny Arcila-Maya</a>
         <br>
+        Duke University
+        <br>
         niny[.]arcilamaya[@]duke[.]edu
       </figcaption>
     </figure>
@@ -37,6 +40,8 @@ We are three mathematicians from Manizales (Caldas, Colombia) who collaborate re
       <img src="{{ '/assets/img/maye.jpg' | prepend: site.baseurl }}" alt="Maye" style="width:100%">
       <figcaption>
         <a href="https://www.mathematics.utoronto.ca/people/directories/postdoctoral-fellows/mayecxiliana-cardenas-montoya">Maye Cárdenas Montoya</a>
+        <br>
+        University of Toronto
         <br>
         maye[.]montoya[@]utoronto[.]ca
       </figcaption>
@@ -48,6 +53,8 @@ We are three mathematicians from Manizales (Caldas, Colombia) who collaborate re
       <figcaption>
         <a href="http://www.math.utah.edu/~ospina/">Carlos Ospina</a>
         <br>
+        University of Utah
+        <br>
         ospina[@]math[.]utah[.]edu
       </figcaption>
     </figure>
@@ -57,8 +64,8 @@ Questions/Comments/Suggestions can be sent to paresordenados[@]gmail[.]com or to
 
 ### Acknowledgments
 <div style="text-align: justify">
-<p> I appreciate the assistance provided by <a href="https://www.linkedin.com/in/alejandra-donají-herrera-reyes-52b54a87/">Alejandra Herrera Reyes</a> in selecting the name of this program.
+<p> We appreciate the assistance provided by <a href="https://www.linkedin.com/in/alejandra-donají-herrera-reyes-52b54a87/">Alejandra Herrera Reyes</a> in selecting the name of this program.
 <br>
-I am grateful to <a href="https://sergiocarrillo3026.wixsite.com/scarrillomath">Sergio Carrillo Torres</a> for assisting me with different logistics-related aspects of Pares Ordenados.
+We are grateful to <a href="https://sergiocarrillo3026.wixsite.com/scarrillomath">Sergio Carrillo Torres</a> for assisting with different logistics-related aspects of Pares Ordenados.
 </p>
 </div>
