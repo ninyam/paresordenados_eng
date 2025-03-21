@@ -64,7 +64,10 @@ Questions/Comments/Suggestions can be sent to paresordenados[@]gmail[.]com or to
 
 ### Acknowledgments
 <div style="text-align: justify">
-<p> We appreciate the assistance provided by <a href="https://www.linkedin.com/in/alejandra-donají-herrera-reyes-52b54a87/">Alejandra Herrera Reyes</a> in selecting the name of this program.
+<p> 
+This program is inspired on the online DRP <a href="https://sites.google.com/view/twoples/home">Twoples</a>. 
+<br>
+We appreciate the assistance provided by <a href="https://www.linkedin.com/in/alejandra-donají-herrera-reyes-52b54a87/">Alejandra Herrera Reyes</a> in selecting the name of this program.
 <br>
 We are grateful to <a href="https://sergiocarrillo3026.wixsite.com/scarrillomath">Sergio Carrillo Torres</a> for assisting with different logistics-related aspects of Pares Ordenados.
 </p>
